@@ -64,7 +64,9 @@ blockquote
   background: #FFF;}
 
 ul
-{ margin: 2px 0 22px 17px;}
+{ margin: 2px 0 22px 17px;
+  padding-left: 15px;
+}
 
 ul li
 { list-style-type: circle;
